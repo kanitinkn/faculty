@@ -17,9 +17,10 @@ if (!defined('BASEPATH')) {
   | If this is not set then CodeIgniter will guess the protocol, domain and
   | path to your installation.
   |
- */
+ */  
 $config['base_url'] = 'http://localhost/faculty'; // location url
 // $config['base_url'] = 'http://202.28.94.18/322432/2014/2/543021270-4/project'; // location url
+// $config['base_url'] = 'http:/10.199.10.15/faculty/';
 
 /*
   |--------------------------------------------------------------------------

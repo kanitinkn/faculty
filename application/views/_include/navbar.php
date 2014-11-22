@@ -41,6 +41,7 @@
                         </li>
                         <li <?php if ($page == "personnel") echo 'class="active"' ?>><?= anchor('personnel', 'บุคลากร') ?></li>
                         <li><a href="#">นักเรียน/นักศึกษา</a></li>
+                        <li <?php if ($page == "download") echo 'class="active"' ?>><?= anchor('download', 'ดาวน์โหลด') ?></li>
                         <li><a href="#">สมาคมศิษย์เก่า</a></li>
                         <li><a href="#" style="margin-right:20px;">ติดต่อ</a></li>
                     </ul>
