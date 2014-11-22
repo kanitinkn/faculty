@@ -2,7 +2,7 @@
     <div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-				<div class="well text-center">บุคลากร</div>
+				<div class="jumbotron text-center">บุคลากร</div>
 				<p>งานบริหารและธุรการ</p>
 				<ul>
 					<li>แบบฟอร์มขออนุญาตใช้เครื่อง Copy Print</li>
@@ -51,7 +51,7 @@
 				</ul>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-				<div class="well text-center">นักศึกษา</div>
+				<div class="jumbotron text-center">นักศึกษา</div>
 				<p>สำหรับปริญญาตรี</p>
 				<table class="table table-striped table-bordered">
 					<thead>

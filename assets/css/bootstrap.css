@@ -893,7 +893,8 @@ body {
   font-size: 15px;
   line-height: 1.42857143;
   color: #222222;
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
+  background-color: rgba(255, 254, 242, 0.89);
 }
 input,
 button,
@@ -4101,19 +4102,22 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #ffffff;
+  /*color: #ffffff;*/
+  color: rgba(54, 44, 44, 1);
+  /*font-weight: bold;*/
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #ffffff;
-  background-color: #272727;
+  /*background-color: #272727;*/
+  background-color: rgba(80, 33, 20, 0.7);
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
   /*background-color: #272727;*/
-  background-color: rgba(113, 57, 41, .7);
+  background-color: rgba(80, 33, 20, 0.7);
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,

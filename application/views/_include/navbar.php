@@ -1,7 +1,7 @@
 
 <!-- Navbar ================================================================ -->
     
-    <div class="container">
+    <div class="container" style="margin-bottom:25px;">
         <img class="img-responsive img-center" src="<?= base_url() . 'assets/img/logo.jpg' ?>" alt="Boss">
         <nav class="navbar navbar-default" role="navigation">
             <div class="container">
@@ -62,7 +62,7 @@
                         </li>
                         <li <?php if ($page == "download") echo 'class="active"' ?>><?= anchor('download', 'ดาวน์โหลด') ?></li>
                         <li><a href="http://www.kkusca.org/" target="blank">สมาคมศิษย์เก่า</a></li>
-                        <li><a href="#" style="margin-right:15px;">ติดต่อ</a></li>
+                        <li style="margin-right:15px;" <?php if ($page == "contact") echo 'class="active"' ?>><?= anchor('contact', 'ติดต่อ') ?></li>
                     </ul>
                 </div>
             </div><!-- ./container -->
