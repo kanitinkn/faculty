@@ -12,7 +12,7 @@ class download extends CI_Controller {
 
     function index() {
         $page['page'] = 'download';
-        $title['title'] = 'Faculty of Science';
+        $title['title'] = 'Download';
         $this->load->view('_include/header',$title);
         $this->load->view('_include/navbar',$page);
         $this->load->view('download');
