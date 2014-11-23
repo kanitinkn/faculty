@@ -6,7 +6,7 @@
 				<p class="text-center" style="margin-top:10px;">ผศ.ดร.สมเกียรติ ศรีจารนัย</p>
 		  	</div>
 		  	<div class="col-sm-12 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
-		  		<h2>ข่าวทั้งหมด</h2>
+		  		<h3>ข่าวทั้งหมด</h3>
 	          	<hr>
             	<p>ข่าวอบรม-สัมมนาวิชาการ</p>
             	<ul>
