@@ -12,7 +12,7 @@ class manager extends CI_Controller {
 
     function index() {
         $page['page'] = 'manager';
-        $title['title'] = 'ภาควิชา';
+        $title['title'] = 'คณะผู้บริหาร';
         $this->load->view('_include/header',$title);
         $this->load->view('_include/navbar',$page);
         $this->load->view('personnel/manager');

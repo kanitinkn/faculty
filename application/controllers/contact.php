@@ -12,7 +12,7 @@ class contact extends CI_Controller {
 
     function index() {
         $page['page'] = 'contact';
-        $title['title'] = 'Contact';
+        $title['title'] = 'ติดต่อ';
         $this->load->view('_include/header',$title);
         $this->load->view('_include/navbar',$page);
         $this->load->view('contact');

@@ -4142,7 +4142,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #272727;
+  /*background-color: #272727;*/
+  background-color: rgba(80, 33, 20, 0.7);
   color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -6221,7 +6222,8 @@ button.close {
   color: rgba(255, 255, 255, 0.5);
 }
 .navbar-default .dropdown-menu {
-  background-color: #333333;
+  /*background-color: #333333;*/
+  background-color: rgba(237, 168, 1, 0.95);
 }
 .navbar-default .dropdown-menu > li > a,
 .navbar-default .dropdown-menu > li > a:focus {

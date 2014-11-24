@@ -12,7 +12,7 @@ class download extends CI_Controller {
 
     function index() {
         $page['page'] = 'download';
-        $title['title'] = 'Download';
+        $title['title'] = 'ดาวน์โหลด';
         $this->load->view('_include/header',$title);
         $this->load->view('_include/navbar',$page);
         $this->load->view('download');

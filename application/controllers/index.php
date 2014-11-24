@@ -12,7 +12,7 @@ class index extends CI_Controller {
 
     function index() {
         $page['page'] = 'index';
-        $title['title'] = 'Faculty of Science';
+        $title['title'] = 'หน้าหลัก';
         $this->load->view('_include/header',$title);
         $this->load->view('_include/navbar',$page);
         $this->load->view('index');
