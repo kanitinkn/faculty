@@ -5,6 +5,7 @@
 				<img class="img-responsive img-thumbnail" src="<?= base_url() . 'assets/img/boss.jpg' ?>" alt="Boss">
 				<p class="text-center" style="margin-top:10px;">ผศ.ดร.สมเกียรติ ศรีจารนัย</p>
 		  	</div>
+		  	<!-- <div class="col-sm-12 col-md-12 col-lg-12"> -->
 		  	<div class="col-sm-12 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
 				<p>หลักสูตร ปริญญาตรี</p>
 				<table class="table table-striped">
