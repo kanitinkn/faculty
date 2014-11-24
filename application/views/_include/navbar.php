@@ -42,6 +42,7 @@
                         <li class="dropdown">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">บุคลากร <span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
+                                <li <?php if ($page == "manager") echo 'class="active"' ?>><?= anchor('manager', 'คณะผู้บริหาร') ?></li>
                                 <li><a target="blank" href="http://www.sc.kku.ac.th/office/researchsci/modules/wfdownloads/viewcat.php?cid=1">ทุนพัฒนาและส่งเสริมด้านวิชาการ</a></li>
                                 <li><a target="blank" href="https://sc3.kku.ac.th/borrow/index.php">แจ้งการโอนเงินหมุนเวียน</a></li>
                                 <li><a target="blank" href="http://www.sc.kku.ac.th/e-document/">จดหมายเวียนออน์ไลน์</a></li>
