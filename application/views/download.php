@@ -56,131 +56,131 @@
 				<table class="table table-striped table-bordered">
 					<thead>
 						<tr>
-							<th>รายการ</th>
-							<th>แบบฟอร์ม</th>
-							<th>ขั้นตอน</th>
+							<th class="text-center">รายการ</th>
+							<th class="text-center">แบบฟอร์ม</th>
+							<th class="text-center">ขั้นตอน</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
 							<td>คำร้องขอเทียบโอนรายวิชาและค่าคะแนน</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การขอเปลี่ยนสาขาวิชา</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การขอย้ายคณะ</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การลงทะเบียนน้อยกว่า</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การลงทะเบียนมากกว่า</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การขออนุญาตลงทะเบียนรายวิชา</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การขอลาพักการศึกษา</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การขอลาออก</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การถอนรายวิชาได้ W</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การต่อทะเบียนเป็นนักศึกษา</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>การยื่นคำร้องทั่วไป</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-						</tr>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+						<!-- </tr>
 						<tr>
 							<td>ตรวจสอบระดับคะแนน</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>ขอลงข้ามระบบ</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>ขอลงทะเบียน เพิ่มวิชาเรียนช้าเป็นกรณีพิเศษ</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>ขอลาป่วย ลากิจ</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>ตรวจสอบหนี้สินระดับ ปริญญาตรี</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(ชีววิทยา รหัส 50 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(จุลชีววิทยา รหัส 50 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(คณิตศาสตร์ รหัส 52 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(วิทยาการคอมพิวเตอร์ รหัส 52 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(ชีวเคมี รหัส 51 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(สารสนเทศสถิติ รหัส 51 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(เทคโนโลยีสารสนเทศและการสื่อสาร รหัส 50 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(ภูมิสารสนเทศศาสตร์ รหัส 50 เป็นต้นไป)</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(คณิตศาสตร์ประยุกต์ รหัส 45)</td>
@@ -236,16 +236,16 @@
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษา <br>(ฟิสิกส์ รหัส 36)</td>
 							<td><span class="glyphicon glyphicon-download-alt"></span></td>
 							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-						</tr>
+						</tr> -->
 						<tr>
 							<td>แบบฟอร์มประเมินความสอดคล้อง</td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 						<tr>
 							<td>แบบฟอร์มตรวจสอบการสำเร็จการศึกษาวิทยาศาสตรบัณฑิต <br>สาขาวิชาวัสดุศาสตร์และนาโนเทคโนโลยี </td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
-							<td><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
+							<td class="text-center"><span class="glyphicon glyphicon-download-alt"></span></td>
 						</tr>
 					</tbody>
 				</table>

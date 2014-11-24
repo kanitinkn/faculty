@@ -7,7 +7,7 @@
 		  	</div>
 		  	<div class="col-sm-12 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
 				<p>หลักสูตร ปริญญาเอก</p>
-				<table class="table table-striped table-bordered">
+				<table class="table table-striped">
 					<thead>
 						<tr>
 							<th>ลำดับ</th>

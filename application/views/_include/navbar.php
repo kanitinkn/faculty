@@ -55,6 +55,7 @@
                                 <li><a target="blank" href="http://www.sckku-smo.in.th/">สโมสรนักศึกษา</a></li>
                                 <li><a target="blank" href="http://www.sc.kku.ac.th/thesis/student/login.php">วิทยานิพนธ์/การศึกษาอิสระ</a></li>
                                 <li><a target="blank" href="http://202.28.92.176/guidance/">งานแนะแนวและจัดหางาน</a></li>
+                                <li class="divider"></li>
                                 <li><a target="blank" href="http://www.sc.kku.ac.th/scweek/index.php">สัปดาห์วันวิทยาศาสตร์</a></li>
                                 <li><a target="blank" href="http://www.sc.kku.ac.th/stdpst/">พสวท.</a></li>
                                 <li><a target="blank" href="http://www.sc.kku.ac.th/olympic/">ค่ายโอลิมบิกวิชาการ</a></li>
