@@ -2,7 +2,7 @@
     <div class="container">
 		<div class="row">
             <div class="col-md-12"><div class="jumbotron text-center"><h3>คณะผู้บริหาร</h3></div></div>
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
                         <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/person/somkiet.jpg' ?>" width="200" height="200" />
                         <div class="caption">
@@ -12,7 +12,7 @@
                     </div>
             </div>
             
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
                         <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/person/Sumonta.jpg' ?>" width="200" height="200" />
                         <div class="caption">
@@ -21,7 +21,7 @@
                         </div>
                     </div>
             </div>
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
                         <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/person/wibhu.jpg' ?>" width="200" height="200" />
                         <div class="caption">
@@ -30,65 +30,53 @@
                         </div>
                     </div>
             </div>
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
-                        <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/person/Wuttichai.JPG' ?>" width="200" height="200" />
-                        <div class="caption">
-                            <p class="text-center">อาจารย์วุฒิชัย ศรีโสดาพล</p>
-                            <p class="text-center">ผู้ช่วยคณบดีฝ่ายบริหาร</p>
-                        </div>
+                    <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/person/Wuttichai.JPG' ?>" width="200" height="200" />
+                    <div class="caption">
+                        <p class="text-center">อาจารย์วุฒิชัย ศรีโสดาพล</p>
+                        <p class="text-center">ผู้ช่วยคณบดีฝ่ายบริหาร</p>
                     </div>
-<<<<<<< Updated upstream
+                </div>  
             </div>
             
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
-                        <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
-                        <div class="caption">
-                            <p class="text-center">ชื่อ-สกุล</p>
-                            <p class="text-center">ตำแหน่ง</p>
-                        </div>
-=======
-                    
-                    <div class="col-sm-5 col-md-3">
-                        <div class="thumbnail">
-                                <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
-                                <div class="caption">
-                                    <div class="myhide">
-                                    <p class="text-center">ชื่อ-สกุล</p>
-                                    <p class="text-center">ตำแหน่ง</p>
-                                    </div>
-                                </div>
-                            </div>
->>>>>>> Stashed changes
-                    </div>
+                    <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
+                    <div class="caption">
+                        <p class="text-center">ชื่อ-สกุล</p>
+                        <p class="text-center">ตำแหน่ง</p>
+                    </div>                    
+                </div>
             </div>
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
-                        <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
-                        <div class="caption">
+                    <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
+                    <div class="caption">
+                        <div class="myhide">
                             <p class="text-center">ชื่อ-สกุล</p>
                             <p class="text-center">ตำแหน่ง</p>
                         </div>
                     </div>
+                </div>
             </div>
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
-                        <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
-                        <div class="caption">
-                            <p class="text-center">ชื่อ-สกุล</p>
-                            <p class="text-center">ตำแหน่ง</p>
-                        </div>
+                    <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
+                    <div class="caption">
+                        <p class="text-center">ชื่อ-สกุล</p>
+                        <p class="text-center">ตำแหน่ง</p>
                     </div>
+                </div>
             </div>
-            <div class="col-sm-5 col-md-3">
+            <div class="col-sm-6 col-md-3">
                 <div class="thumbnail">
-                        <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
-                        <div class="caption">
-                            <p class="text-center">ชื่อ-สกุล</p>
-                            <p class="text-center">ตำแหน่ง</p>
-                        </div>
+                    <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
+                    <div class="caption">
+                        <p class="text-center">ชื่อ-สกุล</p>
+                        <p class="text-center">ตำแหน่ง</p>
                     </div>
+                </div>
             </div>
 		</div><!-- ./row -->
     </div><!-- ./container -->
