@@ -38,6 +38,7 @@
                             <p class="text-center">ผู้ช่วยคณบดีฝ่ายบริหาร</p>
                         </div>
                     </div>
+<<<<<<< Updated upstream
             </div>
             
             <div class="col-sm-5 col-md-3">
@@ -47,6 +48,19 @@
                             <p class="text-center">ชื่อ-สกุล</p>
                             <p class="text-center">ตำแหน่ง</p>
                         </div>
+=======
+                    
+                    <div class="col-sm-5 col-md-3">
+                        <div class="thumbnail">
+                                <image class="img-rounded img-responsive" src="<?= base_url() .'assets/img/dept/dept.svg' ?>" width="200" height="200" />
+                                <div class="caption">
+                                    <div class="myhide">
+                                    <p class="text-center">ชื่อ-สกุล</p>
+                                    <p class="text-center">ตำแหน่ง</p>
+                                    </div>
+                                </div>
+                            </div>
+>>>>>>> Stashed changes
                     </div>
             </div>
             <div class="col-sm-5 col-md-3">
