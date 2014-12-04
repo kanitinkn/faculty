@@ -1,7 +1,7 @@
 
     <div class="container">
 		<div class="row">
-			<div class="col-sm-3 col-md-3 col-lg-3">
+			<div class="hidden-xs col-sm-3 col-md-3 col-lg-3">
 				<img class="img-responsive img-thumbnail" src="<?= base_url() . 'assets/img/boss.jpg' ?>" alt="Boss">
 				<p class="text-center" style="margin-top:10px;">ผศ.ดร.สมเกียรติ ศรีจารนัย</p>
                         <h3 class="text-center" style="margin-top:25px;">เว็บไซต์ที่น่าสนใจ</h3>
@@ -54,7 +54,7 @@
                               <img alt="logo" class="img-responsive img-thumbnail" src="<?= base_url() . 'assets/img/intro/6.jpg' ?>" >
                         </div> -->
 		  	</div>
-		  	<div class="col-sm-12 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
+		  	<div class="col-sm-9 col-md-8 col-md-offset-1 col-lg-8 col-lg-offset-1">
 		  		<h3>ข่าวทั้งหมด</h3>
 	          	<hr> 
                 <div class="col-lg6 col-md-6">
@@ -69,7 +69,7 @@
 	            		<li>เริ่มแล้ว ค่ายเวทีนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ ครั้งที่ 10</li>
 	            		<li>พิธีปิดค่ายโอลิมปิกวิชาการและค่ายฟิสิกส์ดาราศาสตร์โอลิมปิก ค่ายที่ 1ประจำปี 2557</li>
 	            		<li>คณะวิทยาศาสตร์ จัดการสัมมนาในหัวข้อ “สหกิจศึกษาคืออะไร จะได้อะไรถ้าไปสหกิจศึกษา”</li>
-                              <small><p><a class="pull-right btn btn-default" href="#" role="button">อ่านทั้งหมด »</a></p></small>
+                              <small><p><a class="pull-right btn btn-default"  style="margin-top:5px; margin-bottom:10px;" href="http://www.sc.kku.ac.th/scienceweb/topic/category/1" role="button">อ่านทั้งหมด »</a></p></small>
                             </small>            		
                         </ul>
                     </div>
@@ -86,7 +86,7 @@
 	            		<li>รายการ “ตื่นข่าว”แจ้งเลื่อนออกอากาศสารคดี “แมงป่องช้าง” ไปเป็นวันที่ 9 พ.ย. เวลา 17.00 น.</li>
 	            		<li>ไทยรัฐทีวี บุกถ่ายสารคดี “แมงป่องช้าง” ที่คณะวิทย์ฯ ออกรายการ “ตื่นข่าว”</li>
 	            		<li>นักศึกษา ป.เอก จุลชีววิทยา คว้ารางวัล The Best Paper Award ในงานประชุมวิชาการนานาชาติ ที่เกาหลีใต้</li>
-                              <small><p><a class="pull-right btn btn-default" href="#" role="button">อ่านทั้งหมด »</a></p></small>
+                              <small><p><a class="pull-right btn btn-default"  style="margin-top:5px; margin-bottom:10px;" href="http://www.sc.kku.ac.th/scienceweb/topic/category/2" role="button">อ่านทั้งหมด »</a></p></small>
                             </small>            		
                         </ul>
                     </div>
@@ -103,7 +103,7 @@
 	            		<li>ผลการคัดเลือกนักศึกษาเข้ารับรางวัลเชิดชูเกียรติคณะวิทยาศาสตร์ ประจำปี2557</li>
 	            		<li>ขอเชิญนักศึกษาเสนอชื่อเพื่อเข้ารับรางวัลเชิดชูเกียรติ คณะวิทยาศาสตร์ ประจำปีการศึกษา 2556</li>
 	            		<li>พิธีถวายสัตย์ปฏิญาณนักศึกษาใหม่ ประจำปี 2557</li>
-                              <small><p><a class="pull-right btn btn-default" href="#" role="button">อ่านทั้งหมด »</a></p></small>
+                              <small><p><a class="pull-right btn btn-default"  style="margin-top:5px; margin-bottom:10px;" href="http://www.sc.kku.ac.th/scienceweb/topic/category/4" role="button">อ่านทั้งหมด »</a></p></small>
             		</small>             		
                         </ul>
                     </div>
@@ -120,7 +120,7 @@
 	            		<li>ประกาศผลการแข่งขันต่างๆภายในกิจกรรมสัปดาห์วิทยาศาสตร์ ประจำปี 2557 วันสุดท้าย</li>
 	            		<li>ผลการแข่งขันในกิจกรรมงานสัปดาห์วิทยาศาสตร์ ประจำปี 2557</li>
 	            		
-                              <small><p><a class="pull-right btn btn-default" href="#" role="button">อ่านทั้งหมด »</a></p></small>
+                              <small><p><a class="pull-right btn btn-default"  style="margin-top:5px; margin-bottom:10px;" href="http://www.sc.kku.ac.th/scienceweb/topic/category/5" role="button">อ่านทั้งหมด »</a></p></small>
             		</small>              		
                         </ul>
                     </div>
@@ -137,7 +137,7 @@
 	            		<li>คณะวิทยาศาสตร์ มข. ขอแสดงความเสียใจกับครอบครัว กนกเมธากุล</li>
 	            		<li>คณะวิทยาศาสตร์ ร่วมงานมุทิตาจิตผู้เกษียณอายุราชการประจำปี 57 มข.</li>
 	            		<li>ถักถ้อย ร้อยรัก แด่ผู้เกษียณอายุราชการ 2557</li>
-                              <small><p><a class="pull-right btn btn-default" href="#" role="button">อ่านทั้งหมด »</a></p></small>
+                              <small><p><a class="pull-right btn btn-default"  style="margin-top:5px; margin-bottom:10px;" href="http://www.sc.kku.ac.th/scienceweb/topic/category/3" role="button">อ่านทั้งหมด »</a></p></small>
             		</small>               		
                         </ul>
                     </div>
@@ -154,7 +154,7 @@
 	            		<li>คณะวิทยาศาสตร์ มข. ขอแสดงความเสียใจกับครอบครัว กนกเมธากุล</li>
 	            		<li>คณะวิทยาศาสตร์ ร่วมงานมุทิตาจิตผู้เกษียณอายุราชการประจำปี 57 มข.</li>
 	            		<li>ถักถ้อย ร้อยรัก แด่ผู้เกษียณอายุราชการ 2557</li>
-                              <small><p><a class="pull-right btn btn-default" href="#" role="button">อ่านทั้งหมด »</a></p></small>
+                              <small><p><a class="pull-right btn btn-default"  style="margin-top:5px; margin-bottom:10px;" href="http://www.sc.kku.ac.th/scienceweb/topic/category/3" role="button">อ่านทั้งหมด »</a></p></small>
             		</small>               		
                         </ul>
                     </div>
